@@ -1,0 +1,11 @@
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.exe
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.pdb
+F:\自己的项目\Dapper教程\Dapper\Dapper\obj\Debug\Dapper.exe
+F:\自己的项目\Dapper教程\Dapper\Dapper\obj\Debug\Dapper.pdb
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.exe.config
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.dll
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.dll
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.xml
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.pdb
+F:\自己的项目\Dapper教程\Dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.xml
+F:\自己的项目\Dapper教程\Dapper\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
